@@ -19,7 +19,7 @@ const Index = () => {
       <nav className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-md border-b border-border">
         <div className="container mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
-            <h1 className="text-2xl font-bold text-primary">ЛОХУШКА</h1>
+            <h1 className="text-2xl font-bold text-primary">МРАЗЬ</h1>
             <div className="flex gap-6">
               <button
                 onClick={() => scrollToSection('home')}
@@ -55,7 +55,7 @@ const Index = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="space-y-6 animate-fade-in">
               <h2 className="text-6xl font-bold leading-tight">
-                Привет! Я <span className="text-primary">ЛОХУШКА</span>
+                Привет! Я <span className="text-primary">МРАЗЬ</span>
               </h2>
               <p className="text-xl text-muted-foreground">
                 Добро пожаловать на мой личный сайт
@@ -140,7 +140,7 @@ const Index = () => {
             </div>
             <div className="mt-12 text-center">
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Привет! Я ЛОХУШКА - человек, который любит жизнь во всех её проявлениях.
+                Привет! Я МРАЗЬ - человек, который любит жизнь во всех её проявлениях.
                 Здесь я делюсь своими мыслями, фотографиями и моментами из жизни.
               </p>
             </div>
@@ -221,7 +221,7 @@ const Index = () => {
 
       <footer className="py-8 border-t border-border">
         <div className="container mx-auto px-6 text-center text-muted-foreground">
-          <p>© 2024 ЛОХУШКА. Все права защищены.</p>
+          <p>© 2024 МРАЗЬ. Все права защищены.</p>
         </div>
       </footer>
     </div>
