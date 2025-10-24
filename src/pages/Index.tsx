@@ -112,36 +112,35 @@ const Index = () => {
             <div className="grid md:grid-cols-3 gap-6">
               <Card className="p-8 bg-card border-border hover:border-primary transition-colors">
                 <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center mb-4">
-                  <Icon name="Sparkles" className="text-primary" size={24} />
+                  <Icon name="CheckCircle" className="text-primary" size={24} />
                 </div>
-                <h3 className="text-xl font-semibold mb-3">Креативность</h3>
+                <h3 className="text-xl font-semibold mb-3">Честность</h3>
                 <p className="text-muted-foreground">
-                  Творческий подход ко всему, что делаю
+                  Я мразь и это не отрицаю
                 </p>
               </Card>
               <Card className="p-8 bg-card border-border hover:border-primary transition-colors">
                 <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center mb-4">
-                  <Icon name="Heart" className="text-primary" size={24} />
+                  <Icon name="Users" className="text-primary" size={24} />
                 </div>
-                <h3 className="text-xl font-semibold mb-3">Энергия</h3>
+                <h3 className="text-xl font-semibold mb-3">Коммуникабельность</h3>
                 <p className="text-muted-foreground">
-                  Всегда полон энергии и энтузиазма
+                  Я лижу задницы всем
                 </p>
               </Card>
               <Card className="p-8 bg-card border-border hover:border-primary transition-colors">
                 <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center mb-4">
-                  <Icon name="Zap" className="text-primary" size={24} />
+                  <Icon name="Smile" className="text-primary" size={24} />
                 </div>
-                <h3 className="text-xl font-semibold mb-3">Стиль</h3>
+                <h3 className="text-xl font-semibold mb-3">Мимика</h3>
                 <p className="text-muted-foreground">
-                  Уникальный стиль во всём
+                  Я мимика
                 </p>
               </Card>
             </div>
             <div className="mt-12 text-center">
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Привет! Я МРАЗЬ - человек, который любит жизнь во всех её проявлениях.
-                Здесь я делюсь своими мыслями, фотографиями и моментами из жизни.
+                Привет! Я МРАЗЬ. Здесь я делюсь своими мыслями, фотографиями и моментами из жизни.
               </p>
             </div>
           </div>
